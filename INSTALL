@@ -1,0 +1,12 @@
+INSTALL :
+
+  perl Makefile.PL
+  make
+  make install
+
+You you want more information, see the POD documentation :
+
+ pod2html DF.pm  (for HTML output)
+ pod2ps DF.pm    (for PostScript output).
+
+
